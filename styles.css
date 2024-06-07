@@ -1,0 +1,35 @@
+body {
+  font-family: monospace;
+  background-color: #181B4F;
+  color: #ffffff; 
+}
+
+h1, p {
+  text-align: center;
+  padding-top: 10px;
+}
+
+fieldset {
+  border: none;
+}
+
+label, legend {
+  display: block;
+  padding: 2px;
+  font-size: 17px;
+}
+
+form {
+  background-color: #ffffff;
+  color: #181B4F;
+}
+
+input,
+textarea
+{
+  margin: 10px 0 0 0;
+  width: 100%;
+  min-height: 2em;
+  padding-bottom: 20px;
+}
+
